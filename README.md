@@ -1,4 +1,4 @@
-# smolboidns
+# smolboydns
 smolboydns is a lightweight DNS responder written in Go. It maps specific domains to IP addresses via a simple configuration file and logs incoming queries in real time.
 
 ## Quick Start
