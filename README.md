@@ -21,7 +21,7 @@ Firewall rules allowing inbound UDP/53 traffic
 
 ## Installation
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/m4ss1v3/smolboyDNS
 cd <repo>
 go mod tidy
 go build -o smolboydns smolboydns.go
